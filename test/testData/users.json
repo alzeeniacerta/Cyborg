@@ -1,0 +1,122 @@
+{
+	"Aman": {
+		"username": "aman.gupta+automation@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Aman",
+		"lastname": "Gupta",
+		"email": "aman.gupta+automation@getcerta.com"
+	},
+	"AmanExternal": {
+		"username": "contact@aman-gupta.in",
+		"password": "Certa@2023",
+		"firstname": "Aman",
+		"lastname": "External",
+		"email": "contact@aman-gupta.in"
+	},
+	"Home Automation": {
+		"username": "automation+homefeature@lvmelelj.mailosaur.net",
+		"password": "Certa@2023",
+		"firstname": "Home ",
+		"lastname": "Automation",
+		"email": "automation+homefeature@lvmelelj.mailosaur.net"
+	},
+	"MFA User": {
+		"username": "mfa-user@lvmelelj.mailosaur.net",
+		"password": "Certa@2023",
+		"firstname": "MFA ",
+		"lastname": "User",
+		"email": "mfa-user@lvmelelj.mailosaur.net"
+	},
+	"Activity Logs": {
+		"username": "activitylogs@lvmelelj.mailosaur.net",
+		"password": "Certa@2023",
+		"firstname": "Activity",
+		"lastname": "Logs",
+		"email": "activitylogs@lvmelelj.mailosaur.net"
+	},
+	"childWorkflowUser": {
+		"username": "hina+childWorkflow@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Child",
+		"lastname": "Workflow",
+		"email": "hina+childWorkflow@getcerta.com"
+	},
+	"Abdullah": {
+		"username": "abdullah+1@getcerta.com",
+		"password": "Certa@2021",
+		"firstname": "abdullah+1@getcerta.com",
+		"lastname": "Naeem",
+		"email": "abdullah+1@getcerta.com"
+	},
+	"Dashboard": {
+		"username": "dashboard_user@lvmelelj.mailosaur.net",
+		"password": "Certa@2023",
+		"firstname": "Dashboard",
+		"lastname": "User",
+		"email": "dashboard_user@lvmelelj.mailosaur.net"
+	},
+	"Dashboard1": {
+		"username": "dashboard_user1@lvmelelj.mailosaur.net",
+		"password": "Certa@2023",
+		"firstname": "Dashboard",
+		"lastname": "Impersonated",
+		"email": "dashboard_user1@lvmelelj.mailosaur.net"
+	},
+	"Dashboard2": {
+		"username": "dashboard_user2@lvmelelj.mailosaur.net",
+		"password": "Certa@2023",
+		"firstname": "Dashboard",
+		"lastname": "Impersonated",
+		"email": "dashboard_user2@lvmelelj.mailosaur.net"
+	},
+	"Blacklist User": {
+		"username": "hina+blacklist@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Hina ",
+		"lastname": "Blacklist",
+		"email": "hina+blacklist@getcerta.com"
+	},
+	"Whitelist User": {
+		"username": "maintanancemode+whitlelist@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Maintanance ",
+		"lastname": "Whitelist",
+		"email": "maintanancemode+whitlelist@getcerta.com"
+	},
+	"Maintanance Mode User": {
+		"username": "automation+maintanancemode@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Maintanance ",
+		"lastname": "Automation",
+		"email": "automation+maintanancemode@getcerta.com"
+	},
+	"Impersonate User": {
+		"username": "hina+impersonate@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Hina",
+		"lastname": "Impersonate",
+		"email": "hina+impersonate@getcerta.com"
+	},
+	"Impersonate User1": {
+		"username": "hina+impersonate1@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Hina",
+		"lastname": "Impersonate1",
+		"email": "hina+impersonate1@getcerta.com"
+	},
+	"Impersonate User2": {
+		"username": "hina+impersonate2@getcerta.com",
+		"password": "Certa@2023",
+		"firstname": "Hina",
+		"lastname": "Impersonate2",
+		"email": "hina+impersonate2@getcerta.com"
+	},
+	"Alzeenia":{
+		"username": "alzeeniaf@getcerta.com",
+		"password": "TestPass@123",
+		"firstname": "Alzeenia",
+		"lastname": "Stepversioning",
+		"email": "alzeeniaf@getcerta.com"
+
+	}
+}

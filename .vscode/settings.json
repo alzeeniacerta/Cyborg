@@ -1,0 +1,11 @@
+{
+    "cucumberautocomplete.steps": [
+        "test/steps/*/*.ts"
+    ],
+    "cucumberautocomplete.strictGherkinCompletion": true,
+    "files.eol": "\r\n",
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true
+    },
+    "eslint.validate": ["typescript","javascript"]
+}
